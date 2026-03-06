@@ -1,7 +1,7 @@
 # IA aplicada à criação de conteúdo educacional para concursos
 ## 📸 Preview do projeto
 
-preview-projeto.png
+![Prévia do projeto](preview-projeto.png)
 
 ## 📒 Descrição
 Este projeto foi desenvolvido no desafio Lab DIO Natty or Not com o objetivo de explorar o uso de IAs generativas na criação de conteúdo educacional voltado para estudantes de concursos.
