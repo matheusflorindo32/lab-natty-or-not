@@ -1,0 +1,27 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#F8FBFF"/><stop offset="100%" stop-color="#FFFFFF"/></linearGradient>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#2563EB"/><stop offset="100%" stop-color="#7C3AED"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#0F172A" flood-opacity="0.15"/></filter>
+    <style>.title{font-family:Arial;font-weight:900;fill:#0F172A}.sub{font-family:Arial;font-weight:600;fill:#334155}.txt{font-family:Arial;font-weight:500;fill:#475569}.ct{font-family:Arial;font-weight:800;fill:#0F172A}</style>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <circle cx="890" cy="145" r="210" fill="#DBEAFE" opacity="0.65"/>
+  <circle cx="120" cy="1190" r="230" fill="#EDE9FE" opacity="0.65"/>
+  <rect x="55" y="55" width="260" height="56" rx="28" fill="url(#grad)" filter="url(#shadow)"/>
+  <text x="185" y="91" text-anchor="middle" font-family="Arial" font-size="24" font-weight="800" fill="#fff">PROJETO CONCLUÍDO</text>
+  <text x="55" y="185" class="title" font-size="66">IA Generativa</text>
+  <text x="55" y="258" class="title" font-size="66">na Educação</text>
+  <text x="58" y="312" class="sub" font-size="29">Lab DIO — Natty or Not</text>
+  <text x="58" y="355" class="txt" font-size="24">Conteúdo educacional para concursos com apoio de IA</text>
+  <g transform="translate(735 110)" filter="url(#shadow)"><circle cx="125" cy="125" r="112" fill="#fff"/><circle cx="125" cy="125" r="84" fill="url(#grad)"/><text x="125" y="146" text-anchor="middle" font-family="Arial" font-size="62" font-weight="900" fill="#fff">IA</text></g>
+  <g transform="translate(55 430)" filter="url(#shadow)"><rect width="970" height="220" rx="32" fill="#fff"/><text x="42" y="62" class="ct" font-size="32">O que o projeto demonstra?</text><text x="42" y="110" class="txt" font-size="24">A IA pode apoiar a criação de conteúdo educacional quando existe</text><text x="42" y="145" class="txt" font-size="24">intenção, revisão humana, clareza visual e responsabilidade.</text><rect x="705" y="42" width="210" height="135" rx="28" fill="#EFF6FF"/><text x="810" y="96" text-anchor="middle" class="ct" font-size="32">NATTY</text><text x="810" y="132" text-anchor="middle" class="txt" font-size="22">claro • útil • natural</text></g>
+  <g transform="translate(55 710)">
+    <g filter="url(#shadow)"><rect width="220" height="170" rx="28" fill="#fff"/><text x="110" y="64" text-anchor="middle" font-size="44">💡</text><text x="110" y="108" text-anchor="middle" class="ct" font-size="25">Ideação</text><text x="110" y="140" text-anchor="middle" class="txt" font-size="18">tema e intenção</text></g>
+    <g transform="translate(250 0)" filter="url(#shadow)"><rect width="220" height="170" rx="28" fill="#fff"/><text x="110" y="64" text-anchor="middle" font-size="44">🧠</text><text x="110" y="108" text-anchor="middle" class="ct" font-size="25">IA Generativa</text><text x="110" y="140" text-anchor="middle" class="txt" font-size="18">apoio criativo</text></g>
+    <g transform="translate(500 0)" filter="url(#shadow)"><rect width="220" height="170" rx="28" fill="#fff"/><text x="110" y="64" text-anchor="middle" font-size="44">✅</text><text x="110" y="108" text-anchor="middle" class="ct" font-size="25">Curadoria</text><text x="110" y="140" text-anchor="middle" class="txt" font-size="18">revisão humana</text></g>
+    <g transform="translate(750 0)" filter="url(#shadow)"><rect width="220" height="170" rx="28" fill="#fff"/><text x="110" y="64" text-anchor="middle" font-size="44">🚀</text><text x="110" y="108" text-anchor="middle" class="ct" font-size="25">Portfólio</text><text x="110" y="140" text-anchor="middle" class="txt" font-size="18">GitHub documentado</text></g>
+  </g>
+  <g transform="translate(55 935)" filter="url(#shadow)"><rect width="970" height="210" rx="32" fill="#fff"/><rect x="32" y="34" width="250" height="48" rx="24" fill="url(#grad)"/><text x="157" y="66" text-anchor="middle" font-family="Arial" font-size="22" font-weight="800" fill="#fff">PROCESSO</text><text x="55" y="125" class="ct" font-size="30">Tema → Ideia → Conteúdo → Revisão → Design → GitHub</text><text x="55" y="170" class="txt" font-size="23">Da ideia ao portfólio: um processo simples, documentado e responsável.</text></g>
+  <g transform="translate(55 1185)" filter="url(#shadow)"><rect width="970" height="95" rx="28" fill="#0F172A"/><text x="42" y="40" font-family="Arial" font-size="24" font-weight="800" fill="#fff">Aprender tecnologia é transformar conhecimento em solução prática.</text><text x="42" y="72" font-family="Arial" font-size="18" font-weight="600" fill="#BFDBFE">Matheus Florindo de Deus • IA • Educação • Tecnologia</text></g>
+</svg>
