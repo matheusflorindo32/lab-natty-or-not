@@ -20,6 +20,10 @@
 
 ![Prévia do projeto](preview-projeto.png)
 
+## Arte premium complementar
+
+![Infográfico premium do projeto](infografico-premium.svg)
+
 ---
 
 ## Visão geral
@@ -29,6 +33,17 @@ Este repositório foi desenvolvido como entrega do desafio **Lab DIO — Natty o
 A proposta central foi usar IA não apenas para gerar texto ou imagem, mas para estruturar uma comunicação mais clara, didática e aplicável, mantendo linguagem natural, utilidade prática e coerência visual.
 
 > O foco do projeto é mostrar o processo de criação, a reflexão sobre o uso de IA e o resultado final como peça de portfólio educacional.
+
+---
+
+## Documentação complementar
+
+| Arquivo | Finalidade |
+|---|---|
+| [`PROMPTS.md`](PROMPTS.md) | Registra as instruções usadas no processo criativo. |
+| [`PROCESSO_CRIATIVO.md`](PROCESSO_CRIATIVO.md) | Explica as etapas de criação, revisão e documentação. |
+| [`CRITERIOS_AVALIACAO.md`](CRITERIOS_AVALIACAO.md) | Define os critérios usados para avaliar naturalidade, clareza e utilidade. |
+| [`infografico-premium.svg`](infografico-premium.svg) | Arte complementar em formato vertical 1080 x 1350 para apresentação do projeto. |
 
 ---
 
@@ -78,6 +93,7 @@ A IA foi usada como apoio criativo e estrutural, enquanto a curadoria humana foi
 | GitHub | Versionamento, documentação e publicação do projeto. |
 | Ferramentas de edição de imagem | Ajustes visuais, composição e acabamento final. |
 | Markdown | Documentação técnica e apresentação do processo. |
+| SVG | Arte complementar versionada no repositório. |
 
 ---
 
@@ -120,14 +136,10 @@ O material deve usar linguagem simples, parecer natural, evitar exageros e ter u
 
 O objetivo é demonstrar como a IA Generativa pode apoiar a criação de conteúdo educacional sem substituir a curadoria humana.
 
-Estruture o conteúdo com:
-- título forte;
-- explicação curta;
-- pontos principais;
-- linguagem didática;
-- tom profissional;
-- visual adequado para publicação digital.
+Estruture o conteúdo com título forte, explicação curta, pontos principais, linguagem didática, tom profissional e visual adequado para publicação digital.
 ```
+
+Mais instruções estão documentadas em [`PROMPTS.md`](PROMPTS.md).
 
 ---
 
@@ -141,6 +153,8 @@ Estruture o conteúdo com:
 | Visual | A composição facilita a leitura? | Sim |
 | Ética no uso da IA | A IA foi usada como apoio, não como substituição total da análise humana? | Sim |
 | Coerência | O conteúdo combina com o objetivo educacional? | Sim |
+
+A matriz detalhada está em [`CRITERIOS_AVALIACAO.md`](CRITERIOS_AVALIACAO.md).
 
 ---
 
@@ -174,12 +188,13 @@ Em um cenário educacional, o objetivo não deve ser apenas produzir mais rápid
 
 ## Melhorias futuras
 
-- [ ] Adicionar versão final em diferentes formatos de publicação.
+- [x] Adicionar documentação de prompts.
+- [x] Documentar processo criativo.
+- [x] Criar critérios de avaliação.
+- [x] Adicionar arte premium complementar.
 - [ ] Incluir comparação antes/depois do refinamento com IA.
-- [ ] Documentar prompts alternativos testados.
 - [ ] Criar uma versão em carrossel para LinkedIn e Instagram.
-- [ ] Adicionar critérios de acessibilidade visual.
-- [ ] Incluir um arquivo `PROMPTS.md` com variações de prompts.
+- [ ] Adicionar critérios avançados de acessibilidade visual.
 
 ---
 
@@ -193,6 +208,10 @@ Em um cenário educacional, o objetivo não deve ser apenas produzir mais rápid
 - [x] Reflexão crítica incluída
 - [x] Repositório público no GitHub
 - [x] README organizado para portfólio
+- [x] Prompts documentados
+- [x] Processo criativo documentado
+- [x] Critérios de avaliação documentados
+- [x] Arte premium complementar adicionada
 
 ---
 
